@@ -1,0 +1,11 @@
+
+^
+java:S3252
+"<Use static access with "org.openqa.selenium.By" for "xpath".(ô”Úåøÿÿÿÿ8Í¹šìÑ0
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(–üıµıÿÿÿÿ8ÒúÀìÑ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æê÷ª
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(¢‡†úÿÿÿÿ8ı²£ìÑ0
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(”İÜ¼ùÿÿÿÿ8Œ¥ªìÑ0

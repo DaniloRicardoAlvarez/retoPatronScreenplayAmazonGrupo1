@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æê÷ª
+V
+java:S3252	"9Use static access with "org.openqa.selenium.By" for "id".(¨Çƒ·8æ†“íÑ0
+[
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(¬õ ıÿÿÿÿ8¨¸”íÑ0
+V
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(™Ùø´8İ¶—íÑ0
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Ñ¾“ğûÿÿÿÿ8Í“™íÑ0
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¤Ú«—ÿÿÿÿÿ8ÔÂ‚íÑ0
+[
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(Ï£™¬ÿÿÿÿÿ8üç•íÑ0
